@@ -17,9 +17,9 @@
   "dependencies": {
     "@astrojs/markdown-remark": "^5.1.1",
     "@astrojs/mdx": "^4.0.0",
+    "@astrojs/netlify": "^6.6.4",
     "@astrojs/react": "^4.3.0",
     "@astrojs/tailwind": "^5.1.1",
-    "@astrojs/vercel": "^8.2.7",
     "@fancyapps/ui": "^5.0.36",
     "@iconify-json/mdi": "^1.2.2",
     "@iconify-json/ri": "^1.2.5",
