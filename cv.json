@@ -1,0 +1,318 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "xFeDEV",
+    "label": "Full-Stack Developer | AI & Automation Specialist",
+    "animated_main_label": "developer",
+    "animated_secondary_initial_label": "full-stack",
+    "animated_secondary_final_label": "AI specialist",
+    "image": "/pfp.jpg",
+    "email": "federico.duque@utp.edu.co",
+    "url": "https://federico.feexel.tech/",
+    "summary": "Desarrollador Full Stack con mentalidad analítica y capacidad de ejecución probada en entornos financieros e institucionales. Experto en construir arquitecturas robustas con Python y TypeScript, orquestación de agentes de IA y despliegues contenerizados.",
+    "theme": "red",
+    "location": {
+      "address": "Pereira",
+      "city": "Risaralda",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "xFeDEV",
+        "url": "https://github.com/xFeDEV"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "federico.duque",
+        "url": "mailto:federico.duque@utp.edu.co"
+      },
+      {
+        "network": "Portfolio",
+        "icon": "ri:global-line",
+        "color": "#4A90D9",
+        "username": "feexel.tech",
+        "url": "https://federico.feexel.tech/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Inversiones GORA S.A.S.",
+      "position": "Desarrollador de Sistemas (Etapa Productiva SENA)",
+      "location_type": "Presencial",
+      "location": "CO",
+      "url": "",
+      "startDate": "2023-11-01",
+      "endDate": "2026-02-01",
+      "summary": "Levantamiento de requerimientos y desarrollo de módulos para las plataformas financieras Gofin y Gora Coop en Laravel, PHP nativo, Next.js, NestJS y React con TypeScript. Creé automatizaciones con pipelines de LLMs para generar scripts SQL y agilizar procesos internos. Gestión de workflows en Jira y GitLab, y manejo de contenedores Docker. Mi rol consistió en dar soluciones rápidas y funcionales a las necesidades del día a día de la empresa.",
+      "responsibilities": [
+        "Levantamiento de requerimientos funcionales para el desarrollo de módulos en las plataformas Gofin y Gora Coop.",
+        "Desarrollo de módulos en Laravel, PHP nativo, Next.js y NestJS con React y TypeScript.",
+        "Creación de automatizaciones con pipelines de LLMs para generación de scripts SQL y optimización de procesos internos.",
+        "Gestión de bases de datos MySQL y PostgreSQL para los sistemas financieros.",
+        "Manejo de workflows y seguimiento de tareas con Jira y control de versiones en GitLab.",
+        "Uso de Docker para entornos de desarrollo y contenedores de servicios.",
+        "Solución rápida de incidencias y necesidades técnicas del día a día en entornos financieros.",
+        "Debugging y corrección de errores en los sistemas existentes para mantener la operación estable."
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Laravel": "simple-icons:laravel",
+        "Next.js": "simple-icons:nextdotjs",
+        "NestJS": "simple-icons:nestjs",
+        "React": "simple-icons:react",
+        "TypeScript": "simple-icons:typescript",
+        "Python": "simple-icons:python",
+        "PostgreSQL": "simple-icons:postgresql",
+        "MySQL": "simple-icons:mysql",
+        "Docker": "mdi:docker",
+        "Jira": "simple-icons:jira",
+        "GitLab": "simple-icons:gitlab"
+      }
+    },
+    {
+      "name": "Glam Vestidos",
+      "position": "Desarrollador de Software (Prestación de Servicios)",
+      "location_type": "Remoto",
+      "location": "CO",
+      "url": "https://www.glamvestidospereira.com/",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Desarrollo de landing pages en Astro 5.0 y catálogo digital. Posicionamiento SEO en el Top 8 de Google para 'vestidos pereira'. Gestión de campañas de visibilidad y arquitectura web.",
+      "responsibilities": [
+        "Desarrollo de landing pages optimizadas con Astro 5.0 y Tailwind CSS 4 para catálogo de vestidos.",
+        "Implementación de estrategia SEO técnica avanzada: metaetiquetas dinámicas, sitemap XML, Open Graph y datos estructurados.",
+        "Posicionamiento orgánico en el Top 8 de Google para keywords como 'vestidos pereira' y 'alquiler de vestidos Risaralda'.",
+        "Optimización de Core Web Vitals logrando puntuaciones 100/100 en Lighthouse.",
+        "Gestión de campañas de visibilidad digital y arquitectura web responsive (Mobile First)."
+      ],
+      "skills": {
+        "Astro": "simple-icons:astro",
+        "TypeScript": "simple-icons:typescript",
+        "Tailwind": "mdi:tailwind",
+        "Vercel": "simple-icons:vercel",
+        "SEO": "mdi:search-web"
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "SENA",
+      "url": "https://www.sena.edu.co/",
+      "area": "Tecnólogo en Análisis y Desarrollo de Software — Etapa lectiva y productiva finalizada con éxito. Título en trámite (Culminación de pruebas TyT en Abril 2026).",
+      "studyType": "Tecnólogo",
+      "startDate": "2023-01-01",
+      "endDate": "2025-12-01"
+    },
+    {
+      "institution": "SENA",
+      "url": "https://www.sena.edu.co/",
+      "area": "Técnico en Venta de Productos y Servicios — Habilidades en negociación, atención al cliente y análisis de mercado.",
+      "studyType": "Técnico",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-01"
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Backend", "Type Safety"]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Advanced",
+      "keywords": ["Backend", "AI", "Automation", "FastAPI"]
+    },
+    {
+      "name": "React",
+      "icon": "simple-icons:react",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "UI"]
+    },
+    {
+      "name": "Next.js",
+      "icon": "simple-icons:nextdotjs",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "SSR", "Fullstack"]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "SSG", "Performance"]
+    },
+    {
+      "name": "FastAPI",
+      "icon": "simple-icons:fastapi",
+      "level": "Advanced",
+      "keywords": ["Backend", "API", "Python", "REST"]
+    },
+    {
+      "name": "NestJS",
+      "icon": "simple-icons:nestjs",
+      "level": "Intermediate",
+      "keywords": ["Backend", "API", "TypeScript", "Node.js"]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Advanced",
+      "keywords": ["DevOps", "Containers", "Deployment"]
+    },
+    {
+      "name": "MariaDB",
+      "icon": "simple-icons:mariadb",
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL", "Backend"]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Advanced",
+      "keywords": ["Databases", "SQL", "Backend"]
+    },
+    {
+      "name": "Azure",
+      "icon": "simple-icons:microsoftazure",
+      "level": "Intermediate",
+      "keywords": ["Cloud", "Infrastructure", "DevOps"]
+    },
+    {
+      "name": "DigitalOcean",
+      "icon": "simple-icons:digitalocean",
+      "level": "Intermediate",
+      "keywords": ["Cloud", "Infrastructure", "Deployment"]
+    },
+    {
+      "name": "Nginx",
+      "icon": "simple-icons:nginx",
+      "level": "Intermediate",
+      "keywords": ["Web Server", "Reverse Proxy", "DevOps"]
+    },
+    {
+      "name": "SEO",
+      "icon": "mdi:search-web",
+      "level": "Advanced",
+      "keywords": ["Marketing", "Web Development", "Optimization"]
+    },
+    {
+      "name": "LLM Pipelines",
+      "icon": "mdi:robot-outline",
+      "level": "Advanced",
+      "keywords": ["AI", "Automation", "Machine Learning", "Agents"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoClipMaker",
+      "isActive": true,
+      "description": "Sistema de detección de momentos 'clippeables' en VODs de Kick.com mediante análisis de hype del chat con señales de ventana deslizante, Data Lakes JSON y descarga automática del clip en MP4.",
+      "highlights": [
+        "🎬 Detección automática de hype vía análisis de chat en tiempo real",
+        "📊 Algoritmo de señal con ventana deslizante y detección de picos por derivada",
+        "💾 Data Lake JSON como cache para reanálisis instantáneo",
+        "🎥 Conversión TS → MP4 con ffmpeg (stream copy + fallback re-encoding)",
+        "🐳 Arquitectura contenerizada con Docker Compose + Nginx"
+      ],
+      "stack": {
+        "Vue.js": "simple-icons:vuedotjs",
+        "FastAPI": "simple-icons:fastapi",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Docker": "mdi:docker",
+        "Nginx": "simple-icons:nginx"
+      },
+"url": "https://autoclipmaker.feexel.tech",
+      "github": "https://github.com/xFeDEV/AutoClipMaker"
+    },
+    {
+      "name": "TaskPro (Gaply)",
+      "isActive": true,
+      "description": "Plataforma inteligente de conexión de servicios profesionales con arquitectura de agentes A2A (Agent-to-Agent), protocolo MCP de Anthropic y LLM Google Gemini 2.5 Flash.",
+      "highlights": [
+        "🤖 Pipeline de 4 agentes A2A: Analista, Recomendador, Guardián y Orquestador",
+        "🔗 Integración MCP (Model Context Protocol) estándar de Anthropic",
+        "🧠 Clasificación NLP con Google Gemini 2.5 Flash (<800ms latencia)",
+        "🛡️ Agente Guardian con detección de fraudes y precios anómalos vía LLM",
+        "📊 PostgreSQL 16 con modelo relacional normalizado de 13 tablas"
+      ],
+      "stack": {
+        "FastAPI": "simple-icons:fastapi",
+        "Next.js": "simple-icons:nextdotjs",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Docker": "mdi:docker",
+        "Gemini AI": "simple-icons:googlegemini",
+        "Python": "simple-icons:python"
+      },
+"url": "https://gaply.feexel.tech",
+      "github": "https://github.com/xFeDEV/TaskPro"
+    },
+    {
+      "name": "xFeDEV Talent System",
+      "isActive": true,
+      "description": "Sistema de gestión de colaboradores para la Policía Nacional con generación automática de carnets PDF corporativos, códigos QR de emergencia y módulo público de contactos.",
+      "highlights": [
+        "🪪 Generación automática de carnets PDF con foto, datos y branding",
+        "📱 Códigos QR con página pública de contacto de emergencia",
+        "📸 Captura de fotos vía cámara web o upload con almacenamiento Docker",
+        "🔐 Autenticación JWT con roles admin/operador y setup inicial",
+        "🐳 Despliegue completo con Docker Compose (MariaDB + FastAPI + Next.js)"
+      ],
+      "stack": {
+        "Next.js": "simple-icons:nextdotjs",
+        "FastAPI": "simple-icons:fastapi",
+        "MariaDB": "simple-icons:mariadb",
+        "Docker": "mdi:docker",
+        "TypeScript": "simple-icons:typescript"
+      },
+"url": "https://idcards.feexel.tech",
+      "github": "https://github.com/xFeDEV/sistema-carnetizacion"
+    },
+    {
+      "name": "Gestión Formación",
+      "isActive": true,
+      "description": "Sistema académico contenerizado para la gestión integral de centros de formación SENA: regionales, programas, fichas, ambientes, horarios e instructores.",
+      "highlights": [
+        "🏫 Gestión de regionales, centros y ambientes de formación",
+        "📚 Administración de programas, fichas y competencias académicas",
+        "👥 Sistema de roles (Superadmin, Admin, Instructor) con autenticación JWT",
+        "📅 Programación y asignación de horarios e instructores",
+        "🐳 Contenerización completa con Docker Compose (MariaDB + FastAPI + React 19)"
+      ],
+      "stack": {
+        "FastAPI": "simple-icons:fastapi",
+        "React 19": "simple-icons:react",
+        "MariaDB": "simple-icons:mariadb",
+        "Docker": "mdi:docker",
+        "Tailwind": "mdi:tailwind"
+      },
+"url": "https://gestionformacion.feexel.tech",
+      "github": "https://github.com/xFeDEV/GestionFormacion"
+    }
+  ]
+}
