@@ -1,52 +1,63 @@
-# Portfolio.dev
+# xFeDEV — Portfolio
 
-This is a personal portfolio website built with Astro, TypeScript, and Tailwind CSS. It features a unique Neovim-inspired theme and includes sections for About, Experience, Education, Skills, and Projects.
+Portfolio personal de **Estevan Federico Duque Lopez (xFeDEV)**, Full-Stack Developer & AI Specialist ubicado en Pereira, Colombia. Construido con Astro, TypeScript y Tailwind CSS.
 
-## Features
+## Características
 
-*   **Neovim-inspired theme:** A unique theme that mimics the look and feel of the Neovim editor.
-*   **Multiple Sections:** Includes sections for About, Experience, Education, Skills, and Projects.
-*   **Responsive Design:** The website is designed to be responsive and work on all devices.
-*   **Live CV:** The portfolio data is sourced from a `cv.json` file, making it easy to update.
+* **Tema personalizable:** Red, Orange, Cyberpunk, Green, Blue, Platinum y Sunset con modo oscuro/claro.
+* **Secciones completas:** Hero, Sobre mí, Experiencia, Proyectos, Educación y Habilidades.
+* **Diseño responsive:** Mobile First, optimizado para todos los dispositivos.
+* **CV dinámico:** Los datos se cargan desde `cv.json`, fácil de actualizar sin tocar componentes.
+* **Cards de proyectos clicables:** Toda la superficie redirige a la demo desplegada.
+* **SEO optimizado:** Meta tags, Open Graph, Schema.org y sitemap.
 
-## Tech Stack
+## Stack Tecnológico
 
-*   **Astro:** The web framework for building the website.
-*   **TypeScript:** For type safety and improved developer experience.
-*   **Tailwind CSS:** For styling the website.
-*   **React:** Used for some interactive components.
-*   **Vercel:** For deployment.
+* **Framework:** [Astro](https://astro.build/)
+* **Lenguaje:** TypeScript
+* **Estilos:** Tailwind CSS
+* **Componentes interactivos:** React
+* **Despliegue:** Vercel
+* **Iconos:** astro-icon (Iconify: mdi, ri, simple-icons)
 
-## Getting Started
+## Inicio Rápido
 
-To get a local copy up and running, follow these simple steps.
+### Requisitos
 
-### Prerequisites
+* Node.js v22.x+
+* pnpm
 
-*   Node.js (v22.x or later)
-*   npm
+### Instalación
 
-### Installation
+```sh
+git clone https://github.com/xFeDEV/potfolio2.0
+cd potfolio2.0
+pnpm install
+```
 
-1.  Clone the repo
-    ```sh
-    git clone https://github.com/Anmol-TheDev/potfolio2.0
-    ```
-2.  Install NPM packages
-    ```sh
-    pnpm install
-    ```
-
-### Running the Development Server
-
-To run the development server, use the following command:
+### Desarrollo
 
 ```sh
 pnpm run dev
 ```
 
-This will start the development server at `http://localhost:4321`.
+Servidor disponible en `http://localhost:4321`.
 
-## License
+### Build
 
-Distributed under the MIT License. See `LICENSE` for more information.
+```sh
+pnpm run build
+```
+
+## Proyectos Desplegados
+
+| Proyecto | URL |
+|---|---|
+| AutoClipMaker | https://autoclipmaker.feexel.tech |
+| TaskPro (Gaply) | https://gaply.feexel.tech |
+| xFeDEV Talent System | https://idcards.feexel.tech |
+| Gestión Formación | https://gestionformacion.feexel.tech |
+
+## Licencia
+
+Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
