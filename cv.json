@@ -6,7 +6,7 @@
     "animated_main_label": "developer",
     "animated_secondary_initial_label": "full-stack",
     "animated_secondary_final_label": "AI specialist",
-    "image": "/pfp.jpg",
+    "image": "/fotoportfolio.jpeg",
     "email": "federico.duque@utp.edu.co",
     "url": "https://federico.feexel.tech/",
     "summary": "Desarrollador Full Stack con mentalidad analítica y capacidad de ejecución probada en entornos financieros e institucionales. Experto en construir arquitecturas robustas con Python y TypeScript, orquestación de agentes de IA y despliegues contenerizados.",
@@ -48,7 +48,7 @@
       "location_type": "Presencial",
       "location": "CO",
       "url": "",
-      "startDate": "2023-11-01",
+      "startDate": "2025-08-01",
       "endDate": "2026-02-01",
       "summary": "Levantamiento de requerimientos y desarrollo de módulos para las plataformas financieras Gofin y Gora Coop en Laravel, PHP nativo, Next.js, NestJS y React con TypeScript. Creé automatizaciones con pipelines de LLMs para generar scripts SQL y agilizar procesos internos. Gestión de workflows en Jira y GitLab, y manejo de contenedores Docker. Mi rol consistió en dar soluciones rápidas y funcionales a las necesidades del día a día de la empresa.",
       "responsibilities": [
@@ -82,8 +82,8 @@
       "location_type": "Remoto",
       "location": "CO",
       "url": "https://www.glamvestidospereira.com/",
-      "startDate": "2023-01-01",
-      "endDate": "2025-01-01",
+      "startDate": "2024-02-01",
+      "endDate": "2025-02-01",
       "summary": "Desarrollo de landing pages en Astro 5.0 y catálogo digital. Posicionamiento SEO en el Top 8 de Google para 'vestidos pereira'. Gestión de campañas de visibilidad y arquitectura web.",
       "responsibilities": [
         "Desarrollo de landing pages optimizadas con Astro 5.0 y Tailwind CSS 4 para catálogo de vestidos.",
@@ -125,97 +125,169 @@
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "TypeScript",
       "icon": "simple-icons:typescript",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "Backend", "Type Safety"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Type Safety"
+      ]
     },
     {
       "name": "Python",
       "icon": "simple-icons:python",
       "level": "Advanced",
-      "keywords": ["Backend", "AI", "Automation", "FastAPI"]
+      "keywords": [
+        "Backend",
+        "AI",
+        "Automation",
+        "FastAPI"
+      ]
     },
     {
       "name": "React",
       "icon": "simple-icons:react",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "UI"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "UI"
+      ]
     },
     {
       "name": "Next.js",
       "icon": "simple-icons:nextdotjs",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "SSR", "Fullstack"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Fullstack"
+      ]
     },
     {
       "name": "Astro",
       "icon": "simple-icons:astro",
       "level": "Advanced",
-      "keywords": ["Web Development", "Frontend", "SSG", "Performance"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSG",
+        "Performance"
+      ]
     },
     {
       "name": "FastAPI",
       "icon": "simple-icons:fastapi",
       "level": "Advanced",
-      "keywords": ["Backend", "API", "Python", "REST"]
+      "keywords": [
+        "Backend",
+        "API",
+        "Python",
+        "REST"
+      ]
     },
     {
       "name": "NestJS",
       "icon": "simple-icons:nestjs",
       "level": "Intermediate",
-      "keywords": ["Backend", "API", "TypeScript", "Node.js"]
+      "keywords": [
+        "Backend",
+        "API",
+        "TypeScript",
+        "Node.js"
+      ]
     },
     {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Advanced",
-      "keywords": ["DevOps", "Containers", "Deployment"]
+      "keywords": [
+        "DevOps",
+        "Containers",
+        "Deployment"
+      ]
     },
     {
       "name": "MariaDB",
       "icon": "simple-icons:mariadb",
       "level": "Advanced",
-      "keywords": ["Databases", "SQL", "Backend"]
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Backend"
+      ]
     },
     {
       "name": "PostgreSQL",
       "icon": "simple-icons:postgresql",
       "level": "Advanced",
-      "keywords": ["Databases", "SQL", "Backend"]
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Backend"
+      ]
     },
     {
       "name": "Azure",
       "icon": "simple-icons:microsoftazure",
       "level": "Intermediate",
-      "keywords": ["Cloud", "Infrastructure", "DevOps"]
+      "keywords": [
+        "Cloud",
+        "Infrastructure",
+        "DevOps"
+      ]
     },
     {
       "name": "DigitalOcean",
       "icon": "simple-icons:digitalocean",
       "level": "Intermediate",
-      "keywords": ["Cloud", "Infrastructure", "Deployment"]
+      "keywords": [
+        "Cloud",
+        "Infrastructure",
+        "Deployment"
+      ]
     },
     {
       "name": "Nginx",
       "icon": "simple-icons:nginx",
       "level": "Intermediate",
-      "keywords": ["Web Server", "Reverse Proxy", "DevOps"]
+      "keywords": [
+        "Web Server",
+        "Reverse Proxy",
+        "DevOps"
+      ]
     },
     {
       "name": "SEO",
       "icon": "mdi:search-web",
       "level": "Advanced",
-      "keywords": ["Marketing", "Web Development", "Optimization"]
+      "keywords": [
+        "Marketing",
+        "Web Development",
+        "Optimization"
+      ]
     },
     {
       "name": "LLM Pipelines",
       "icon": "mdi:robot-outline",
       "level": "Advanced",
-      "keywords": ["AI", "Automation", "Machine Learning", "Agents"]
+      "keywords": [
+        "AI",
+        "Automation",
+        "Machine Learning",
+        "Agents"
+      ]
     }
   ],
   "languages": [
@@ -247,7 +319,7 @@
         "Docker": "mdi:docker",
         "Nginx": "simple-icons:nginx"
       },
-"url": "https://autoclipmaker.feexel.tech",
+      "url": "https://autoclipmaker.feexel.tech",
       "github": "https://github.com/xFeDEV/AutoClipMaker"
     },
     {
@@ -269,7 +341,7 @@
         "Gemini AI": "simple-icons:googlegemini",
         "Python": "simple-icons:python"
       },
-"url": "https://gaply.feexel.tech",
+      "url": "https://gaply.feexel.tech",
       "github": "https://github.com/xFeDEV/TaskPro"
     },
     {
@@ -290,7 +362,7 @@
         "Docker": "mdi:docker",
         "TypeScript": "simple-icons:typescript"
       },
-"url": "https://idcards.feexel.tech",
+      "url": "https://idcards.feexel.tech",
       "github": "https://github.com/xFeDEV/sistema-carnetizacion"
     },
     {
@@ -311,7 +383,7 @@
         "Docker": "mdi:docker",
         "Tailwind": "mdi:tailwind"
       },
-"url": "https://gestionformacion.feexel.tech",
+      "url": "https://gestionformacion.feexel.tech",
       "github": "https://github.com/xFeDEV/GestionFormacion"
     }
   ]

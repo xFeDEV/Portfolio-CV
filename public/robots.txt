@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://anmol.pro/sitemap.xml 
+Sitemap: https://federico.feexel.tech/sitemap.xml
