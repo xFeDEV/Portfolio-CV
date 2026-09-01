@@ -23,6 +23,16 @@ const profilesInfo = profiles.map(({ network, url }) => {
   const firstLetter = network[0].toUpperCase();
 
   return {
+    id: network,
+    section: "Redes Sociales",
+    title: `Visitar ${network}`,
+    url,
+    icon,
+    hotkey: `ctrl+${firstLetter}`,
+  };
+});
+---
+
 <div class="footer-button print:hidden">
   <Icon name="ri:command-fill" width={20} height={20} class="text-skin-hue" />
 </div>
